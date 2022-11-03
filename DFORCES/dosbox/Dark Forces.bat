@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\DOSBox-0.74-2\DOSBox.exe" -conf "C:\DOS\DFORCES\Dosbox\dforces.conf"
